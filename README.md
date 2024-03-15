@@ -1,4 +1,4 @@
-Been taking a Python Deep learning and TKinter course of over the past week so I made a little password manager in C# to change pace.
+Been taking a Python Deep learning course as well as a TKinter course of over the past week so I made a little password manager in C# to change pace.
 
 This password manager will generate passwords with a length of 10 characters. Generated password will always have 2 upper case letters, 2 symbols and 2 numbers + 4 random characters.
 The order the password is always randomized before being spit out to the user.  
