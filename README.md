@@ -4,6 +4,7 @@ This password manager will generate passwords with a length of 10 characters. Ge
 The order the password is always randomized before being spit out to the user.  
 
 Features:
+
 1 - Generates passwords
 
 2 - Saves passwords to file (with a name identifier set by the user)
